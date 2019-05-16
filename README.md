@@ -1,6 +1,6 @@
 ## How To use
 In todo-list project folder Run "npm install".
-after that run "npm install" in Rest API folder than run "npm run json:server".
+after that run "npm install" in Rest API folder than run "npm run json:server" also in Rest API folder.
 open new terminal, go to todo-list project and run "npm start".
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
